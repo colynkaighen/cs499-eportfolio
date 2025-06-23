@@ -64,6 +64,23 @@
       font-size: 0.9rem;
       color: #888;
     }
+
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      margin-top: 1rem;
+    }
+
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
   </style>
 </head>
 <body>
@@ -97,6 +114,10 @@
       <li>📦 <a href="cs410_algorithms_artifact.zip" download>CS-410 Artifact (.zip)</a></li>
       <li>🎥 <a href="code-review.html">Code Review Video Page</a></li>
     </ul>
+
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/Ju1IJgHapIs" allowfullscreen></iframe>
+    </div>
   </main>
 
   <footer>

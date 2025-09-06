@@ -18,7 +18,7 @@ It also contains my **professional self-assessment** and a **code review** video
 🚀 Deployment
 
 This portfolio is live via GitHub Pages:
-👉 View My ePortfolio
+👉 View My ePortfolio https://colynkaighen.github.io/cs499-eportfolio/
 
 ---
 
